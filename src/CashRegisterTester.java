@@ -11,6 +11,6 @@ public class CashRegisterTester {
             register.printReceipt(29.50);
             register.printReceipt(9.50);
             System.out.println("The price list is " +register.prices);
-            System.out.println("The number of the total purchases is "+ (register.));
+            System.out.println("The number of the total purchases is ");
         }
 }
